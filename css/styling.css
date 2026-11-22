@@ -1502,3 +1502,19 @@ margin-top:5px;
 margin-left:90px;
 }
 }
+.arena {
+color:#cbfe1c;
+font-weight: bolder;
+}
+.g-p {
+color:#cbfe1c;
+}
+.nav-link.active {
+color:#cbfe1c !important;
+}
+.nav-link {
+color:#cbfe1c !important;
+}
+.fa-bars {
+color:#cbfe1c;
+}
